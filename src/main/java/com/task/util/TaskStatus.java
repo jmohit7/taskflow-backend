@@ -1,5 +1,5 @@
 package com.task.util;
 
 public enum TaskStatus {
-    ASSIGNED, PENDING, IN_PROGRESS, COMPLETED
+    PENDING, IN_PROGRESS, REJECTED, COMPLETED
 }
